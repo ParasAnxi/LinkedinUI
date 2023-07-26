@@ -371,3 +371,13 @@ body{
     }
     
 }
+@media screen and (max-width: 417px){
+    .posts{
+        flex-wrap: wrap;
+        width: 300px;
+    }
+    .r_i{
+        padding: 0.2px;
+        font-size: 12px;
+    }
+}
